@@ -1,7 +1,7 @@
 {
-  "_info": "VoidCosmetics Datenbank. Ãber die Website bearbeiten, nicht manuell!",
+  "_info": "VoidCosmetics Datenbank. ÃÂber die Website bearbeiten, nicht manuell!",
   "_version": 1,
-  "_website": "Ãffne index.html aus dem Website-Ordner in deinem Browser",
+  "_website": "ÃÂffne index.html aus dem Website-Ordner in deinem Browser",
   "players": [
     {
       "username": "beispiel_spieler",
@@ -9,7 +9,7 @@
       "hat": "crown",
       "wings": "angel",
       "nametag": "fire",
-      "prefix": "â"
+      "prefix": "Ã¢ÂÂ"
     },
     {
       "username": "Void_SMK",
