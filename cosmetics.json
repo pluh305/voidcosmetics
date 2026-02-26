@@ -1,0 +1,15 @@
+{
+  "_info": "VoidCosmetics Datenbank. Über die Website bearbeiten, nicht manuell!",
+  "_version": 1,
+  "_website": "Öffne index.html aus dem Website-Ordner in deinem Browser",
+  "players": [
+    {
+      "username": "beispiel_spieler",
+      "cape": "rainbow",
+      "hat": "crown",
+      "wings": "angel",
+      "nametag": "fire",
+      "prefix": "★"
+    }
+  ]
+}
